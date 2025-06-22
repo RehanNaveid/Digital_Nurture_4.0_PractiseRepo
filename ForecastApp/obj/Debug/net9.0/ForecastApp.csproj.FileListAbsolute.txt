@@ -1,0 +1,15 @@
+D:\Cognizant\Week 1\Hand_On\ForecastApp\bin\Debug\net9.0\ForecastApp.exe
+D:\Cognizant\Week 1\Hand_On\ForecastApp\bin\Debug\net9.0\ForecastApp.deps.json
+D:\Cognizant\Week 1\Hand_On\ForecastApp\bin\Debug\net9.0\ForecastApp.runtimeconfig.json
+D:\Cognizant\Week 1\Hand_On\ForecastApp\bin\Debug\net9.0\ForecastApp.dll
+D:\Cognizant\Week 1\Hand_On\ForecastApp\bin\Debug\net9.0\ForecastApp.pdb
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.AssemblyInfoInputs.cache
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.AssemblyInfo.cs
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.csproj.CoreCompileInputs.cache
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.sourcelink.json
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.dll
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\refint\ForecastApp.dll
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.pdb
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ForecastApp.genruntimeconfig.cache
+D:\Cognizant\Week 1\Hand_On\ForecastApp\obj\Debug\net9.0\ref\ForecastApp.dll
