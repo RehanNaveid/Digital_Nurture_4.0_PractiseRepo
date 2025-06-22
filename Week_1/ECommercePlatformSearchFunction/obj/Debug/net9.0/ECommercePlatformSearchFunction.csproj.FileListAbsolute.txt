@@ -1,0 +1,15 @@
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.AssemblyInfoInputs.cache
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.AssemblyInfo.cs
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.sourcelink.json
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\bin\Debug\net9.0\ECommercePlatformSearchFunction.exe
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\bin\Debug\net9.0\ECommercePlatformSearchFunction.deps.json
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\bin\Debug\net9.0\ECommercePlatformSearchFunction.runtimeconfig.json
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\bin\Debug\net9.0\ECommercePlatformSearchFunction.dll
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\bin\Debug\net9.0\ECommercePlatformSearchFunction.pdb
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.dll
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\refint\ECommercePlatformSearchFunction.dll
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.pdb
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ECommercePlatformSearchFunction.genruntimeconfig.cache
+D:\Cognizant\Week 1\Hand_On\ECommercePlatformSearchFunction\obj\Debug\net9.0\ref\ECommercePlatformSearchFunction.dll
