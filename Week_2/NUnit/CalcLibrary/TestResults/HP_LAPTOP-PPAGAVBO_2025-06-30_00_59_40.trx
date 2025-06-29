@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="476a3f78-d6ed-4a55-bb68-9c3fb2619cc3" name="HP@LAPTOP-PPAGAVBO 2025-06-30 00:59:40" runUser="LAPTOP-PPAGAVBO\HP" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-06-30T00:59:40.2350324+05:30" queuing="2025-06-30T00:59:40.2350324+05:30" start="2025-06-30T00:59:38.4287801+05:30" finish="2025-06-30T00:59:40.6069339+05:30" />
+  <TestSettings name="default" id="50af73f4-0472-4a61-8d8d-bc05d28d2b04">
+    <Deployment runDeploymentRoot="HP_LAPTOP-PPAGAVBO_2025-06-30_00_59_40" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a6d11985-f20f-4a68-b3b5-1387d4519dbc" testId="16a33502-3c9d-87fe-d2e7-efa4b6c95c95" testName="AllClear_ShouldResetResultToZero" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0020000" startTime="2025-06-30T00:59:40.4217222+05:30" endTime="2025-06-30T00:59:40.4237221+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6d11985-f20f-4a68-b3b5-1387d4519dbc" />
+    <UnitTestResult executionId="ba332cc1-edad-4d5e-ad92-c996734b2a3b" testId="1e36949b-c038-c290-ca3a-3e1a1e2816bf" testName="Addition_WhenCalled_ReturnsCorrectResult(5,3,8)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0200000" startTime="2025-06-30T00:59:40.3951626+05:30" endTime="2025-06-30T00:59:40.4147186+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba332cc1-edad-4d5e-ad92-c996734b2a3b" />
+    <UnitTestResult executionId="a4fa4420-ab94-49b1-9818-1d201a6b4e17" testId="d7471497-076b-8457-ae20-720a87f7a2ea" testName="Subtraction_WhenCalled_ReturnsCorrectResult(5,3,2)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4436258+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a4fa4420-ab94-49b1-9818-1d201a6b4e17" />
+    <UnitTestResult executionId="b247de53-a6d3-4580-a0b7-668fa3047966" testId="47ae7a54-0778-9f28-77e6-69b217f7954d" testName="TestMethod1" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0071126" startTime="2025-06-30T00:59:39.1753312+05:30" endTime="2025-06-30T00:59:39.2655413+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b247de53-a6d3-4580-a0b7-668fa3047966" />
+    <UnitTestResult executionId="ed305b46-754e-407f-b430-1a7fafc01bfa" testId="facec67e-0fba-3568-68d0-b87667c70ba4" testName="Subtraction_WhenCalled_ReturnsCorrectResult(-2,-3,1)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4436258+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed305b46-754e-407f-b430-1a7fafc01bfa" />
+    <UnitTestResult executionId="fb11da8d-f6de-4e91-864b-1262d3f140cb" testId="41c03572-3d3d-a4a9-b948-c3fb399dd761" testName="Multiplication_WhenCalled_ReturnsCorrectResult(-2,-3,6)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4436258+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb11da8d-f6de-4e91-864b-1262d3f140cb" />
+    <UnitTestResult executionId="3bab24ad-53fe-4c06-9374-3dc1d08ed682" testId="c3b839ef-17ff-2f81-8ad5-e3af0aff18fe" testName="Division_WhenCalled_ReturnsCorrectResult(10,2,5)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4425932+05:30" endTime="2025-06-30T00:59:40.4425932+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bab24ad-53fe-4c06-9374-3dc1d08ed682" />
+    <UnitTestResult executionId="e56909d5-972f-45a6-a541-24da6e7a72ee" testId="f925e3ca-2290-d0f9-ad93-3cab038a8853" testName="Addition_WhenCalled_ReturnsCorrectResult(0,0,0)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4187175+05:30" endTime="2025-06-30T00:59:40.4187175+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e56909d5-972f-45a6-a541-24da6e7a72ee" />
+    <UnitTestResult executionId="4df7da9d-c816-4b95-98b9-303fef1f0803" testId="4553d18f-b25c-f51f-e62d-28e53f1cca16" testName="Addition_WhenCalled_ReturnsCorrectResult(-2,-3,-5)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4187175+05:30" endTime="2025-06-30T00:59:40.4187175+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4df7da9d-c816-4b95-98b9-303fef1f0803" />
+    <UnitTestResult executionId="7cbe04ba-1b92-487f-9faa-98f1a84706d3" testId="1a5de37c-0625-badb-f832-b17ea7f1a2d8" testName="Multiplication_WhenCalled_ReturnsCorrectResult(5,3,15)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4425932+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7cbe04ba-1b92-487f-9faa-98f1a84706d3" />
+    <UnitTestResult executionId="e20bc4a2-5f0f-46da-84db-5bb175e68b1d" testId="1a00a87c-bfb6-6308-1afa-990ac37794da" testName="Division_WhenCalled_ReturnsCorrectResult(-9,3,-3)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4425932+05:30" endTime="2025-06-30T00:59:40.4425932+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e20bc4a2-5f0f-46da-84db-5bb175e68b1d" />
+    <UnitTestResult executionId="5accd376-7069-4d2c-8ba0-44c04a00df69" testId="fe8e2ff8-296f-b901-5ffa-231ab49c9e0f" testName="Subtraction_WhenCalled_ReturnsCorrectResult(0,0,0)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4436258+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5accd376-7069-4d2c-8ba0-44c04a00df69" />
+    <UnitTestResult executionId="8ea2d54e-3868-4ba4-a5aa-1efbb343c542" testId="46ccbf9c-2bc5-0ef8-fc1d-0139b90ec2bf" testName="Multiplication_WhenCalled_ReturnsCorrectResult(0,100,0)" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0000001" startTime="2025-06-30T00:59:40.4436258+05:30" endTime="2025-06-30T00:59:40.4436258+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ea2d54e-3868-4ba4-a5aa-1efbb343c542" />
+    <UnitTestResult executionId="e24f74a8-a597-4a10-ba15-38a9b65e877f" testId="2950540c-3dd2-7e98-6849-359579cdd67b" testName="Division_ByZero_ThrowsArgumentException" computerName="LAPTOP-PPAGAVBO" duration="00:00:00.0190000" startTime="2025-06-30T00:59:40.4237221+05:30" endTime="2025-06-30T00:59:40.4425932+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e24f74a8-a597-4a10-ba15-38a9b65e877f" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Subtraction_WhenCalled_ReturnsCorrectResult(0,0,0)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="fe8e2ff8-296f-b901-5ffa-231ab49c9e0f">
+      <Execution id="5accd376-7069-4d2c-8ba0-44c04a00df69" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Subtraction_WhenCalled_ReturnsCorrectResult(0,0,0)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_WhenCalled_ReturnsCorrectResult(5,3,15)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="1a5de37c-0625-badb-f832-b17ea7f1a2d8">
+      <Execution id="7cbe04ba-1b92-487f-9faa-98f1a84706d3" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Multiplication_WhenCalled_ReturnsCorrectResult(5,3,15)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_WhenCalled_ReturnsCorrectResult(0,100,0)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="46ccbf9c-2bc5-0ef8-fc1d-0139b90ec2bf">
+      <Execution id="8ea2d54e-3868-4ba4-a5aa-1efbb343c542" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Multiplication_WhenCalled_ReturnsCorrectResult(0,100,0)" />
+    </UnitTest>
+    <UnitTest name="Addition_WhenCalled_ReturnsCorrectResult(0,0,0)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="f925e3ca-2290-d0f9-ad93-3cab038a8853">
+      <Execution id="e56909d5-972f-45a6-a541-24da6e7a72ee" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Addition_WhenCalled_ReturnsCorrectResult(0,0,0)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_WhenCalled_ReturnsCorrectResult(-2,-3,6)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="41c03572-3d3d-a4a9-b948-c3fb399dd761">
+      <Execution id="fb11da8d-f6de-4e91-864b-1262d3f140cb" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Multiplication_WhenCalled_ReturnsCorrectResult(-2,-3,6)" />
+    </UnitTest>
+    <UnitTest name="Division_WhenCalled_ReturnsCorrectResult(10,2,5)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="c3b839ef-17ff-2f81-8ad5-e3af0aff18fe">
+      <Execution id="3bab24ad-53fe-4c06-9374-3dc1d08ed682" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Division_WhenCalled_ReturnsCorrectResult(10,2,5)" />
+    </UnitTest>
+    <UnitTest name="Addition_WhenCalled_ReturnsCorrectResult(5,3,8)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="1e36949b-c038-c290-ca3a-3e1a1e2816bf">
+      <Execution id="ba332cc1-edad-4d5e-ad92-c996734b2a3b" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Addition_WhenCalled_ReturnsCorrectResult(5,3,8)" />
+    </UnitTest>
+    <UnitTest name="Addition_WhenCalled_ReturnsCorrectResult(-2,-3,-5)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="4553d18f-b25c-f51f-e62d-28e53f1cca16">
+      <Execution id="4df7da9d-c816-4b95-98b9-303fef1f0803" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Addition_WhenCalled_ReturnsCorrectResult(-2,-3,-5)" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="47ae7a54-0778-9f28-77e6-69b217f7954d">
+      <Execution id="b247de53-a6d3-4580-a0b7-668fa3047966" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://mstestadapter/v2" className="CalculatorUnitTests.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="Subtraction_WhenCalled_ReturnsCorrectResult(-2,-3,1)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="facec67e-0fba-3568-68d0-b87667c70ba4">
+      <Execution id="ed305b46-754e-407f-b430-1a7fafc01bfa" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Subtraction_WhenCalled_ReturnsCorrectResult(-2,-3,1)" />
+    </UnitTest>
+    <UnitTest name="Division_WhenCalled_ReturnsCorrectResult(-9,3,-3)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="1a00a87c-bfb6-6308-1afa-990ac37794da">
+      <Execution id="e20bc4a2-5f0f-46da-84db-5bb175e68b1d" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Division_WhenCalled_ReturnsCorrectResult(-9,3,-3)" />
+    </UnitTest>
+    <UnitTest name="Subtraction_WhenCalled_ReturnsCorrectResult(5,3,2)" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="d7471497-076b-8457-ae20-720a87f7a2ea">
+      <Execution id="a4fa4420-ab94-49b1-9818-1d201a6b4e17" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Subtraction_WhenCalled_ReturnsCorrectResult(5,3,2)" />
+    </UnitTest>
+    <UnitTest name="AllClear_ShouldResetResultToZero" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="16a33502-3c9d-87fe-d2e7-efa4b6c95c95">
+      <Execution id="a6d11985-f20f-4a68-b3b5-1387d4519dbc" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="AllClear_ShouldResetResultToZero" />
+    </UnitTest>
+    <UnitTest name="Division_ByZero_ThrowsArgumentException" storage="c:\users\hp\downloads\parent project code\parent project code\calclibrary\calclibrary\calculatorunittests\bin\debug\calculatorunittests.dll" id="2950540c-3dd2-7e98-6849-359579cdd67b">
+      <Execution id="e24f74a8-a597-4a10-ba15-38a9b65e877f" />
+      <TestMethod codeBase="C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="CalculatorUnitTests.CalculatorTests" name="Division_ByZero_ThrowsArgumentException" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="16a33502-3c9d-87fe-d2e7-efa4b6c95c95" executionId="a6d11985-f20f-4a68-b3b5-1387d4519dbc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e36949b-c038-c290-ca3a-3e1a1e2816bf" executionId="ba332cc1-edad-4d5e-ad92-c996734b2a3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7471497-076b-8457-ae20-720a87f7a2ea" executionId="a4fa4420-ab94-49b1-9818-1d201a6b4e17" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47ae7a54-0778-9f28-77e6-69b217f7954d" executionId="b247de53-a6d3-4580-a0b7-668fa3047966" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="facec67e-0fba-3568-68d0-b87667c70ba4" executionId="ed305b46-754e-407f-b430-1a7fafc01bfa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41c03572-3d3d-a4a9-b948-c3fb399dd761" executionId="fb11da8d-f6de-4e91-864b-1262d3f140cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3b839ef-17ff-2f81-8ad5-e3af0aff18fe" executionId="3bab24ad-53fe-4c06-9374-3dc1d08ed682" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f925e3ca-2290-d0f9-ad93-3cab038a8853" executionId="e56909d5-972f-45a6-a541-24da6e7a72ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4553d18f-b25c-f51f-e62d-28e53f1cca16" executionId="4df7da9d-c816-4b95-98b9-303fef1f0803" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1a5de37c-0625-badb-f832-b17ea7f1a2d8" executionId="7cbe04ba-1b92-487f-9faa-98f1a84706d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1a00a87c-bfb6-6308-1afa-990ac37794da" executionId="e20bc4a2-5f0f-46da-84db-5bb175e68b1d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fe8e2ff8-296f-b901-5ffa-231ab49c9e0f" executionId="5accd376-7069-4d2c-8ba0-44c04a00df69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="46ccbf9c-2bc5-0ef8-fc1d-0139b90ec2bf" executionId="8ea2d54e-3868-4ba4-a5aa-1efbb343c542" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2950540c-3dd2-7e98-6849-359579cdd67b" executionId="e24f74a8-a597-4a10-ba15-38a9b65e877f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="14" executed="14" passed="14" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 5.0.0.0: Test execution started&#xD;
+Running all tests in C:\Users\HP\Downloads\Parent project code\Parent project code\CalcLibrary\CalcLibrary\CalculatorUnitTests\bin\Debug\CalculatorUnitTests.dll&#xD;
+   NUnit3TestExecutor discovered 13 of 13 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+NUnit Adapter 5.0.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
