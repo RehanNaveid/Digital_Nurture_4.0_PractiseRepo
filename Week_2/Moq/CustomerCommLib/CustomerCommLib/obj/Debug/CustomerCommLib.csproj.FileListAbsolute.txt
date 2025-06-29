@@ -1,0 +1,6 @@
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+D:\Cognizant\Week_2\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

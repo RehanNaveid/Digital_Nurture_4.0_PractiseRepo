@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant\\Week_2\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFA3F3B-26A3-482E-A27C-190E2CC1D053}|CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj|d:\\cognizant\\week_2\\customercommlib\\customercommlib.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFA3F3B-26A3-482E-A27C-190E2CC1D053}|CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj|solutionrelative:customercommlib.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFA3F3B-26A3-482E-A27C-190E2CC1D053}|CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj|d:\\cognizant\\week_2\\customercommlib\\customercommlib.tests\\customercommlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBFA3F3B-26A3-482E-A27C-190E2CC1D053}|CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj|solutionrelative:customercommlib.tests\\customercommlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32496BAB-11F2-4749-B3D7-259A920EFCBA}|CustomerCommLib\\CustomerCommLib.csproj|d:\\cognizant\\week_2\\customercommlib\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32496BAB-11F2-4749-B3D7-259A920EFCBA}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32496BAB-11F2-4749-B3D7-259A920EFCBA}|CustomerCommLib\\CustomerCommLib.csproj|d:\\cognizant\\week_2\\customercommlib\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32496BAB-11F2-4749-B3D7-259A920EFCBA}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib.Tests\\CustomerCommTests.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerCommLib.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:59:35.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerCommLib.Tests",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "RelativeDocumentMoniker": "CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "ToolTip": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "RelativeToolTip": "CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T20:55:47.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:53:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:53:01.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
