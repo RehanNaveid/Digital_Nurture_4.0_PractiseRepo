@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\filter\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\filter\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\filter\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\filter\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|d:\\cognizant\\week_2\\myfirstwebapi\\myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FD7C0C-E81D-4DFB-932A-3B64646DBA14}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Program.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Program.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:24:26.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Models\\Employee.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:51:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Models\\Skill.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Skill.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:48:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Models\\Department.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Models\\Department.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:48:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Filter\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Filter\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Filter\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Filter\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:54:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Filter\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Filter\\CustomAuthFilter.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Filter\\CustomAuthFilter.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Filter\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:53:07.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\appsettings.json",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\appsettings.json",
+              "RelativeToolTip": "MyFirstWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T18:27:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:25:13.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyFirstWebApi",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\MyFirstWebApi.csproj",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\MyFirstWebApi.csproj",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\MyFirstWebApi.csproj",
+              "RelativeToolTip": "MyFirstWebApi\\MyFirstWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T09:04:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:51:47.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Cognizant\\Week_2\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:30:38.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
