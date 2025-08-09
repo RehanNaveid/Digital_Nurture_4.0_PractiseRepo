@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch; /* ✅ Makes all sections equal height */
+  padding: 30px;
+  gap: 20px;
+}
+
+.section {
+  flex: 1;
+  padding: 10px 20px;
+  border-right: 3px solid green;
+  display: flex;          /* optional: for vertical layout */
+  flex-direction: column; /* keeps content stacked */
+}
+
+.section:last-child {
+  border-right: none;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}
